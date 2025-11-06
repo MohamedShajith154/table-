@@ -1,0 +1,164 @@
+{
+  "employees": [
+    {
+      "Emp_names": "Vigneshwaran P",
+      "Department": "IT",
+      "Role": "Data Analyst",
+      "Salary": 72000,
+      "Joined": "2023-01-10",
+      "Project": "Server Performance Dashboard"
+    },
+    {
+      "Emp_names": "Dinesh Kumar",
+      "Department": "IT",
+      "Role": "Full Stack Developer",
+      "Salary": 82000,
+      "Joined": "2023-02-14",
+      "Project": "Employee Management System"
+    },
+    {
+      "Emp_names": "Priya Dharshini",
+      "Department": "IT",
+      "Role": "Frontend Developer",
+      "Salary": 64000,
+      "Joined": "2022-08-22",
+      "Project": "UI Redesign Project"
+    },
+    {
+      "Emp_names": "Suresh B",
+      "Department": "IT",
+      "Role": "Backend Developer",
+      "Salary": 78000,
+      "Joined": "2021-12-09",
+      "Project": "API Integration System"
+    },
+    {
+      "Emp_names": "Mohan Raj",
+      "Department": "Admin",
+      "Role": "Web Developer",
+      "Salary": 53000,
+      "Joined": "2019-06-12",
+      "Project": "Intranet Portal"
+    },
+    {
+      "Emp_names": "Ramya L",
+      "Department": "Admin",
+      "Role": "Office Coordinator",
+      "Salary": 47000,
+      "Joined": "2020-09-01",
+      "Project": "Resource Allocation Tracker"
+    },
+    {
+      "Emp_names": "Meena Devi",
+      "Department": "Finance",
+      "Role": "Accountant",
+      "Salary": 61000,
+      "Joined": "2021-07-17",
+      "Project": "Budget Automation Tool"
+    },
+    {
+      "Emp_names": "Sathish Kumar",
+      "Department": "Finance",
+      "Role": "Financial Analyst",
+      "Salary": 69000,
+      "Joined": "2022-05-19",
+      "Project": "Quarterly Forecast Model"
+    },
+    {
+      "Emp_names": "Saravanan M",
+      "Department": "Sales",
+      "Role": "Accountant",
+      "Salary": 67000,
+      "Joined": "2019-09-05",
+      "Project": "Sales Analytics Dashboard"
+    },
+    {
+      "Emp_names": "Deepika R",
+      "Department": "Sales",
+      "Role": "Sales Executive",
+      "Salary": 55000,
+      "Joined": "2023-03-14",
+      "Project": "CRM Migration"
+    },
+    {
+      "Emp_names": "Lavanya S",
+      "Department": "Marketing",
+      "Role": "Full Stack Developer",
+      "Salary": 58000,
+      "Joined": "2022-11-02",
+      "Project": "Ad Campaign Tracker"
+    },
+    {
+      "Emp_names": "Harini P",
+      "Department": "Marketing",
+      "Role": "Content Strategist",
+      "Salary": 56000,
+      "Joined": "2021-06-30",
+      "Project": "Social Media Insights"
+    },
+    {
+      "Emp_names": "Rajesh Kannan",
+      "Department": "Operations",
+      "Role": "HR",
+      "Salary": 87000,
+      "Joined": "2020-03-28",
+      "Project": "Recruitment Portal"
+    },
+    {
+      "Emp_names": "Kavya Raj",
+      "Department": "HR",
+      "Role": "Finance",
+      "Salary": 48000,
+      "Joined": "2021-09-20",
+      "Project": "Payroll Management System"
+    },
+    {
+      "Emp_names": "Revathi S",
+      "Department": "HR",
+      "Role": "Data Analyst",
+      "Salary": 52000,
+      "Joined": "2021-10-30",
+      "Project": "Employee Retention Insights"
+    },
+    {
+      "Emp_names": "Vimal Kumar",
+      "Department": "HR",
+      "Role": "HR Assistant",
+      "Salary": 46000,
+      "Joined": "2023-04-05",
+      "Project": "Performance Review System"
+    },
+    {
+      "Emp_names": "Gayathri V",
+      "Department": "Support",
+      "Role": "Web Developer",
+      "Salary": 45000,
+      "Joined": "2023-05-11",
+      "Project": "Customer Support Portal"
+    },
+    {
+      "Emp_names": "Anitha M",
+      "Department": "Support",
+      "Role": "Technical Support Executive",
+      "Salary": 49000,
+      "Joined": "2022-07-21",
+      "Project": "Ticket Management System"
+    },
+    {
+      "Emp_names": "Rahul K",
+      "Department": "R&D",
+      "Role": "Machine Learning Engineer",
+      "Salary": 95000,
+      "Joined": "2024-02-03",
+      "Project": "AI Chatbot Assistant"
+    },
+    {
+      "Emp_names": "Sneha B",
+      "Department": "R&D",
+      "Role": "Data Scientist",
+      "Salary": 91000,
+      "Joined": "2023-09-12",
+      "Project": "Customer Prediction Model"
+    }
+  ]
+}
