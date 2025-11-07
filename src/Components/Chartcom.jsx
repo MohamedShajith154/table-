@@ -13,7 +13,7 @@ export default function Chartcom() {
 
   const players =["Dhoni", "Raina", "Rutu", "Bravo", "Dube", "Faf", "Brenden"];
   const runs =[120, 180, 150, 200, 130, 160, 210];
-  const hoverColors = [
+  const hoverColors =[
     "#6b6108ff",
     "red",
     "#054a07ff",
@@ -26,10 +26,9 @@ export default function Chartcom() {
   const createData = (values, baseColor) =>
     values.map((value, i) => ({
       value,
-      itemStyle: { color: baseColor },
-      emphasis: { itemStyle:{color: hoverColors[i % hoverColors.length]}},
+      itemStyle:{ color: baseColor },
+      emphasis:{ itemStyle:{color: hoverColors[i % hoverColors.length]}},
     }));
-
   const runsData = createData(runs, colorMap[chartType]);
     return (
     <>

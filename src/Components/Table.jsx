@@ -1,4 +1,4 @@
-export default function Table({ data, headers }) {
+export default function Table({ data, headers }){
   return (
 <table>
 <thead>
@@ -9,15 +9,15 @@ export default function Table({ data, headers }) {
     </tr>
 </thead>
 
- <tbody>
+ <tbody>                          
     {data.map((row, i) =>(
  <tr key={i}>
-       {headers.map((header, j) => (
-         <td key={j}>{row[header] ?? '-'}</td>
+       {headers.map((header, j) =>(
+ <td key={j}>{row[header]??'-'}</td>
  ))}
  </tr>
 ))}
 </tbody>
- </table>
+</table>
  );
 }

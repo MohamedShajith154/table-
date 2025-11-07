@@ -40,8 +40,11 @@ series:[
 ],
 };
 return (
-    <div className="cont"style={{width: 700, margin: "30px auto", textAlign: "center" }}>
-      <ReactECharts option={option} style={{ height: 500}}/>
+    <div className="cont"style={{width: 700, margin: "30px auto", textAlign: "center", background: "linear-gradient(135deg, #1e1e2f, #2a2a40)",
+  borderRadius: "16px",
+  padding: "20px",
+  boxShadow: "0 8px 20px rgba(0,0,0,0.3)", }}>
+      <ReactECharts option={option}theme="dark" style={{ height: 500}}/>
     </div>
   );
 }

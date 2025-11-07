@@ -9,7 +9,7 @@ export default function Icon({ onSelect, activeType }) {
     color: activeType == type ? color : "dimgrey",
   });
   return(
-    <div style={{ textAlign: "center", marginTop: "20px", }}>
+    <div className="char" style={{ textAlign: "center", marginTop: "20px",backgroundColor:"rgba(4, 4, 43, 1)" }}>
       <FaChartBar className="bar" style={iconStyle("bar", "#2196f3")} onClick={()=> onSelect("bar")} />
       <FaChartLine className="line" style={iconStyle("line", "#4caf50")} onClick={() => onSelect("line")} />
       <FaChartPie className="pie" style={iconStyle("pie", "#ff9800")} onClick={() => onSelect("pie")} />
